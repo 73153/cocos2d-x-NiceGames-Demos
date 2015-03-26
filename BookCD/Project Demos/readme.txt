@@ -1,0 +1,1 @@
+This folder just contains ready-to-run builds of all the demos from the book without the clutter of the source code and project files.
